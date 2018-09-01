@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">com.omrital.timerview.TimerView</string>
+    <string name="default_timer_display">00:00:00</string>
+</resources>
